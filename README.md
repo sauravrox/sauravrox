@@ -48,23 +48,23 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Pandemic : An Opportunity in Disguise](https://saurabadhikari.com.np/pandemic-an-opportunity-in-disguise/)
+- [How To Create Login With Facebook In PHP?](https://saurabadhikari.com.np/how-to-create-login-with-facebook-in-php/)
+- [REST API For Beginners : Adding A New Post](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
+- [Combine Terms And Posts In Search Result With WP_Query](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
+- [WordPress Plugin Development Tips](https://saurabadhikari.com.np/wordpress-plugin-development-tips/)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://saurabadhikari.com.np)
 
 ---
-[website]: https://saurabadhikari.com.np
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/SaurabAdhikar15
-[youtube]: https://www.youtube.com/channel/UCgFqIAwvjiQBk7MLj1n7Bcw
+[website]: https://saurabadhikari.com.np/
+[course]: https://www.saurabadhikari.com.np/
+[twitter]: https://twitter.com/SaurabAdhikar15/
+[youtube]: https://www.youtube.com/channel/UCgFqIAwvjiQBk7MLj1n7Bcw/
 [instagram]: https://www.instagram.com/addsaurab/
 [linkedin]: https://www.instagram.com/addsaurab/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+[webdevplaylist]: https://www.saurabadhikari.com.np/
+[jsplaylist]: https://www.saurabadhikari.com.np/
+[cssplaylist]: https://www.saurabadhikari.com.np/
+[reactplaylist]: https://www.saurabadhikari.com.np/
