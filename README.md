@@ -1,6 +1,6 @@
 ### Hello there, I'm Saurab Adhikari. 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%saurabadhikari.com.np)](https://codestackr.com)
+[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%saurabadhikari.com.np)](https://saurabadhikari.com.np)
 
 ## I'm learner as well as an enthusiast
 
