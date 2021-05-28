@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?label=saurabadhikari.com.np&style=for-the-badge&url=https%3A%2F%saurabadhikari.com.np)](https://saurabadhikari.com.np)
 
-## I'm learner as well as an enthusiast
+## I am learner as well as an enthusiast.
 
 - 🔭 I have been doing web development for 5 years.
 - 🌱 I am currently exploring machine learning for more than 2 years. Sentiment analysis being the main subject.
