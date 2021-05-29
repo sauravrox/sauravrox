@@ -48,7 +48,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandemic : An Opportunity in Disguise](https://saurabadhikari.com.np/pandemic-an-opportunity-in-disguise/)
+- [Keras: Sequential Model](https://saurabadhikari.com.np/keras-sequential-model/)
 - [How To Create Login With Facebook In PHP?](https://saurabadhikari.com.np/how-to-create-login-with-facebook-in-php/)
 - [REST API For Beginners : Adding A New Post](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
 - [Combine Terms And Posts In Search Result With WP_Query](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
