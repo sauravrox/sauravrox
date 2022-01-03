@@ -5,7 +5,7 @@
 ## I am learner as well as an enthusiast.
 
 - 🔭 I have been doing web development for 5 years.
-- 🌱 I am currently exploring machine learning for more than 2 years. Sentiment analysis being the main subject.
+- 🌱 I am currently exploring machine learning for more than 3 years. Sentiment analysis being the main subject.
 - 👯 I am looking to collaborate with other professionals having similar taste and background.
 - 🥅 2021 Goals: To explore more on machine learning and deep learning. And contribute more to Open Source projects.
 - ⚡ Fun fact: I love to cook new dishes, play guitar and hike.
