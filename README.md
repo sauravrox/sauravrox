@@ -1,6 +1,6 @@
 ### Hello there, I'm Saurab Adhikari. 👋
 
-[![Website](https://img.shields.io/website?label=saurabadhikari.com.np&style=for-the-badge&url=saurabadhikari.com.np&color=green)](https://saurabadhikari.com.np)
+[![Website](https://img.shields.io/website?label=saurabadhikari.com.np&style=for-the-badge&url=https://saurabadhikari.com.np&color=green)](https://saurabadhikari.com.np)
 <a href="https://saurabadhikari.com.np/"><img src="https://img.shields.io/static/v1?label=saurabadhikari.com.np&labelColor=505050" alt="website"/></a>
 ## I am learner as well as an enthusiast.
 
