@@ -1,7 +1,7 @@
 ### Hello there, I'm Saurab Adhikari. 👋
 
 [![Website](https://img.shields.io/website?label=saurabadhikari.com.np&style=for-the-badge&url=saurabadhikari.com.np&color=green)](https://saurabadhikari.com.np)
-<a href="https://saurabadhikari.com.np/"><img src="https://img.shields.io/website?label=saurabadhikari.com.np&style=for-the-badge&url=saurabadhikari.com.np&color=green" alt="website"/></a>
+<a href="https://saurabadhikari.com.np/"><img src="https://img.shields.io/website?color=green" alt="website"/></a>
 ## I am learner as well as an enthusiast.
 
 - 🔭 I have been doing web development for 5 years.
