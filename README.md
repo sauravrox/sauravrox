@@ -41,7 +41,7 @@
 
 <br />
 <br />
-### ![1f4c8](https://user-images.githubusercontent.com/25580231/149541575-3ac59065-540c-4691-96e7-d9d49b1067cc.png) GitHub Stats 
+### 💹 GitHub Stats
 <br />
 <br />
 <a href="https://github.com/MartinHeinz/MartinHeinz">
