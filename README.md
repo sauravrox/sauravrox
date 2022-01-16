@@ -55,6 +55,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Machine Learning Techniques](https://saurabadhikari.com.np/machine-learning-techniques/)
 - [Keras: Sequential Model](https://saurabadhikari.com.np/keras-sequential-model/)
 - [How To Create Login With Facebook In PHP?](https://saurabadhikari.com.np/how-to-create-login-with-facebook-in-php/)
 - [REST API For Beginners : Adding A New Post](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
